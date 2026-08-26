@@ -13,12 +13,13 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+| Home | My name is Johan David Guevara Campos, and I am a fourth-semester web programming student.jguevara94@itfip.edu.co|
+| About | 
+I really like sports especially soccer and I also enjoy programming. |
+| Skills | I've learned quite a bit about programming, and I also enjoy learning more programming languages.|
+| Resume | I'm in my fourth semester of web programming, and I've learned a bit of Visual Studio. |
+| Projects | Rice management and cultivation page |
+| Contact | by phone at 3209310479 and via my institutional email: jguevara94@itfip.edu.co |
 
 ---
 
